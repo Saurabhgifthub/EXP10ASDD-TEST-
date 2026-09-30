@@ -1,0 +1,23 @@
+devops-mini-project/
+│
+├── app/
+│   ├── app.py
+│   ├── requirements.txt
+│   └── templates/
+│       └── index.html
+│
+├── tests/
+│   └── test_app.py
+│
+├── monitoring/
+│   └── prometheus.yml
+│
+├── .github/
+│   └── workflows/
+│       └── ci-cd.yml
+│
+├── Dockerfile
+├── docker-compose.yml
+├── sonar-project.properties
+├── README.md
+└── .gitignore
